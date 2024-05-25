@@ -3,6 +3,9 @@
 - 👀 I’m interested in AI, Machine Learning, Programming, and Modding.
 - 📫 How to reach me nixic0@proton.me
 
+> [!IMPORTANT]
+> _**"Jadikan kekurangan di setiap bahasa pemrograman sebagai tantangan."**_
+
 # 🧑🏻‍💻 Code Stats
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
