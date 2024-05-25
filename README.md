@@ -15,7 +15,7 @@
 - [X] [Gotops](https://github.com/eikarna/Gotops) - ENet Binding for Go using CGo.
 - [X] [GrowDocs](https://github.com/eikarna/GrowDocs) - Growtopia Documentation from Community.
 - [X] [Cpp-H](https://github.com/eikarna/cpp-h) - Simple HTTP/s Server for Growtopia Private Server.
-- [X] [Aldnoah](https://github.com/eikarna/Aldnoah) - Best WebServer with DoS/DDoS Mitigation for Growtopia Private Server.
+- [X] [Aldnoah](https://github.com/eikarna/Aldnoah) (Private Project) - Best WebServer with DoS/DDoS Mitigation for Growtopia Private Server.
 - [X] [NinePS](https://github.com/eikarna/gotps) (Private Project) - Growtopia Private Server in Go (Based on Gotops).
 
 # Achievements/Goals
