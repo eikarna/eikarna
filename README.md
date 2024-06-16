@@ -22,7 +22,7 @@
 - [X] [NinePS](https://github.com/eikarna/gotps) (Private Project) - Growtopia Private Server in Go (Based on Gotops).
 
 # Achievements/Goals
-- Pernah jadi hacker.
+- Gatau apa
 
 # 
 <div align="center">
