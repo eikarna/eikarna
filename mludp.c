@@ -37,14 +37,14 @@ void *run(void *arg) {
     // Infinite loop to send packets
     while (1) {
 	// Send Packet 8 times at once
-        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr))
-        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr))
-        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr))
-        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr))
-        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr))
-        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr))
-        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr))
-        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr))
+        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr));
+        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr));
+        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr));
+        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr));
+        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr));
+        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr));
+        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr));
+        sendto(sock, data, sizeof(data), 0, (struct sockaddr *)&server_addr, sizeof(server_addr));
     }
 
     close(sock);
