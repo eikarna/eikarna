@@ -12,7 +12,7 @@
 #include <sys/uio.h>
 
 #define PAYLOAD_SIZE 44
-#define BATCH_SIZE 100
+#define BATCH_SIZE 128
 
 char *ip;
 int port, threads;
