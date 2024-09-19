@@ -9,5 +9,5 @@ clang -Ofast -o mludp2 mludp2.c
 
 # Set ulimit globally
 for opt in $(ulimit -a | sed 's/.*\-\([a-z]\)[^a-zA-Z].*$/\1/'); do
-     ulimit -$opt ulimited
+     ulimit -$opt unlimited
  done
