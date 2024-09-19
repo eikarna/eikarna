@@ -87,7 +87,7 @@ int main(int argc, char *argv[]) {
     int core_ids[threads];
 
     for (int i = 0; i < threads; i++) {
-        core_ids[i] = i;
+        core_ids[i] = i % sysconf(_SC_NPROCESSORS_ONLN);
         if (pthread_create(&thread_ids[i], NULL, run, &core_ids[i]) != 0) {
             perror("Failed to create thread");
             exit(EXIT_FAILURE);
