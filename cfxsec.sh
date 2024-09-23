@@ -92,4 +92,3 @@ else
   # If not repeating, send the request just once
   send_request
 fi
-￼Enter
