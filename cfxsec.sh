@@ -12,6 +12,7 @@ usage() {
 }
 
 # Prompt the user for input if arguments are missing
+REPEAT=true
 wizard_prompt() {
   if [ -z "$HOST" ]; then
     read -p "Enter Host: " HOST
@@ -28,10 +29,18 @@ wizard_prompt() {
   if [ -z "$METHOD" ]; then
     read -p "Enter Method: " METHOD
   fi
+
+  if [ -z "$REPEAT" ]; then
+    read -p "Repeat Request? (y/n): " REPEAT_STR
+    if [ "$REPEAT_STR" = "y" ]; then
+      REPEAT=true
+    else
+      REPEAT=false
+    fi
+  fi
 }
 
 # Parse command-line arguments
-REPEAT=false
 while getopts ":h:p:t:m:r" opt; do
   case ${opt} in
     h) HOST=$OPTARG ;;
@@ -55,8 +64,8 @@ if [ -z "$HOST" ] || [ -z "$PORT" ] || [ -z "$TIME" ] || [ -z "$METHOD" ]; then
   usage
 fi
 
-# The cookie you provided, ISI DISINI YA LEY
-COOKIE=""
+# The cookie you provided
+COOKIE=$(cat cookie.txt)
 
 # Function to send cURL request and check response status
 send_request() {
