@@ -12,7 +12,6 @@ usage() {
 }
 
 # Prompt the user for input if arguments are missing
-REPEAT=true
 wizard_prompt() {
   if [ -z "$HOST" ]; then
     read -p "Enter Host: " HOST
