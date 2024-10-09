@@ -10,7 +10,7 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eikarna&layout=compact&show_icons=true&theme=transparent"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Eikarna&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Eikarna&show_icons=true&theme=transparent&hide=issues" />
   </div>
 </div>
 
