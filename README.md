@@ -27,6 +27,6 @@
 # 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Micro+5+Charted&size=69&duration=3500&pause=1000&color=A8F71D&background=000000&center=true&vCenter=true&random=false&width=600&lines=I'am+Currently+Mastering+GO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Micro+5+Charted&size=69&duration=3500&pause=1000&color=A8F71D&background=00000000&center=true&vCenter=true&random=false&width=600&lines=I'am+Currently+Mastering+GO" alt="Typing SVG" />
   </a>
 </div>
