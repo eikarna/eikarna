@@ -7,12 +7,8 @@
 > _**"Jadikan kekurangan di setiap bahasa pemrograman sebagai tantangan."**_
 
 # 🧑🏻‍💻 Code Stats
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eikarna&layout=compact&show_icons=true&theme=transparent"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Eikarna&show_icons=true&theme=transparent&hide=issues" />
-  </div>
-</div>
+| <a href="https://github.com/eikarna"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eikarna&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Eikarna's github stats" /></a> | <a href="https://github.com/eikarna"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikarna&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 # 📊 My Project
 - [X] [Gotops](https://github.com/eikarna/Gotops) - ENet Binding for Go using CGo.
