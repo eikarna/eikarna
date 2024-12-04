@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eikarna&abbreviated=true&label=Jumlah%20orang%20gabut&style=for-the-badge" alt="Profile Counter" /> </p>
+
 # 👤 Biography
 - 👋 Hi, I’m [@eikarna](https://github.com/eikarna) A.K.A "Adnan".
 - 👀 I’m interested in AI, Machine Learning, Programming, and Modding.
