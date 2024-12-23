@@ -61,5 +61,5 @@ jobs:
         with:
           directory: "."
           github_token: ${{ secrets.PAT_GITHUB_TOKEN }}
-          force_with_lease: true
+          # force_with_lease: true
           force: true
