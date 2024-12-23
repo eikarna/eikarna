@@ -11,7 +11,7 @@ on:
   - cron: "* * * * *"
 
 jobs:
-  auto_commit:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: DEBUG 
