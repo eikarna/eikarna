@@ -1,15 +1,16 @@
 name: MD5 Circle CI
 
 on:
-  push:
-    branches:
-      - main
 
   workflow_dispatch:
       
   schedule:
   - cron: "10 * * * *"
-
+  
+permissions:                    # Global permissions configuration starts here
+  contents: read                # 'read' access to repository contents
+  pull-requests: write          # 'write' access to pull requests
+  
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -62,4 +63,5 @@ jobs:
           directory: "."
           github_token: ${{ secrets.PAT_GITHUB_TOKEN }}
           # force_with_lease: true
+          branch: api
           force: true
