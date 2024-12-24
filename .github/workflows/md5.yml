@@ -1,9 +1,12 @@
 name: MD5 Circle CI
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
-  - cron: "* * * * *"
+    - cron: "* * * * *"
   
 permissions:
   contents: write
