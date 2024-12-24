@@ -1,6 +1,9 @@
 name: MD5 Circle CI
 
 on:
+  push:
+    branches:
+      - api
 
   workflow_dispatch:
       
