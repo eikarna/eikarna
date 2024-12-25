@@ -31,13 +31,15 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # git config user.name "github-actions[bot]"
+          # git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name ${{ secrets.NAME }}
+          git config user.email ${{ secrets.EMAIL }}
 
       - name: Generate MD5 Hash
         run: |
           echo "Generating new keys..."
-          bash generate.sh 32 > new_key_list
+          bash generate.sh 1024 > new_key_list
 
       - name: Generate Message & Commit
         run: |
