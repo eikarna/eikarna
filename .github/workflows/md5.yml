@@ -66,4 +66,3 @@ jobs:
           directory: "."
           github_token: ${{ secrets.PAT_GITHUB_TOKEN }}
           branch: api
-          force: true
