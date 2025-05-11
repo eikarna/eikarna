@@ -12,10 +12,14 @@
 | <a href="https://github.com/eikarna"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eikarna&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Eikarna's github stats" /></a> | <a href="https://github.com/eikarna"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikarna&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-# 📊 My Project
+# 📊 My Biggest Project
 - [X] [Gotops](https://github.com/eikarna/Gotops) - ENet Binding for Go using CGo.
-- [X] [GrowDocs](https://github.com/eikarna/GrowDocs) - Growtopia Documentation from Community.
-- [X] [Cpp-H](https://github.com/eikarna/cpp-h) - Simple HTTP/s Server for Growtopia Private Server.
+- [X] [Gotps](https://github.com/eikarna/Gotps) - First Growtopia Game Server in Go! (with CGo)
+- [X] [Bluetooth Jammer](https://github.com/eikarna/BluetoothJammer) - Simple app to jam your neighbor sound system.
+- [X] [GoDat](https://github.com/eikarna/GoDat) - Go items.dat Encoder/Decoder & Serialize/Deserialize for Growtopia with much features. Extremely fast btw.
+- [X] [SmoothVideo Player](https://github.com/eikarna/SmoothVideo) - Smooth Video Player which can boost your video up to 120 FPS (depends on device).
+- [X] [GrowHost](https://github.com/eikarna/GrowHost) - Free OSM/Cache solution for your Growtopia Private Servers!
+- [X] [AikaBot](https://github.com/eikarna/Aika) (Private Project) - WhatsApp bot in Go which fully integrated with Gemini AI (Audio, Document, Video, Voice, etc).
 - [X] [Aldnoah](https://github.com/eikarna/Aldnoah) (Private Project) - Best WebServer with DoS/DDoS Mitigation for Growtopia Private Server.
 - [X] [NinePS](https://github.com/eikarna/gotps) (Private Project) - Growtopia Private Server in Go (Based on Gotops).
 
