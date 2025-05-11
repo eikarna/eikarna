@@ -24,7 +24,10 @@
 - [X] [NinePS](https://github.com/eikarna/gotps) (Private Project) - Growtopia Private Server in Go (Based on Gotops).
 
 # Achievements/Goals
-- Gatau apa
+- I can adapt very quickly.
+- Can multi-language programming.
+- I can explain things very easily to understand.
+- I have a lot of friends too!
 
 # 
 <div align="center">
