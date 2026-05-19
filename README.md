@@ -9,7 +9,7 @@
 > _**"Jadikan kekurangan di setiap bahasa pemrograman sebagai tantangan."**_
 
 # 🧑🏻‍💻 Code Stats
-| <a href="https://github.com/eikarna"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eikarna&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Eikarna's github stats" /></a> | <a href="https://github.com/eikarna"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikarna&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/eikarna"><img align="center" src="https://github-stats-extended.vercel.app/api?username=eikarna&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Eikarna's github stats" /></a> | <a href="https://github.com/eikarna"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eikarna&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 # 📊 My Biggest Project
