@@ -152,10 +152,10 @@ func main() {
 <div align="center">
 
 <a href="https://github.com/eikarna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eikarna&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A8F71D&icon_color=A8F71D&text_color=ffffff" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=eikarna&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A8F71D&icon_color=A8F71D&text_color=ffffff" />
 </a>
 <a href="https://github.com/eikarna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikarna&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A8F71D&text_color=ffffff" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eikarna&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A8F71D&text_color=ffffff" />
 </a>
 
 </div>
