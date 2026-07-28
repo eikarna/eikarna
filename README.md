@@ -5,16 +5,12 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=EIKARNA&fontSize=80&fontColor=A8F71D&fontAlignY=38&desc=Builder.%20Hacker.%20Go%20Enthusiast.&descAlignY=60&descSize=20&descColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=EIKARNA&fontSize=80&fontColor=A8F71D&fontAlignY=38&desc=Feel.%20Learn.%20Build.&descAlignY=60&descSize=20&descColor=ffffff&animation=fadeIn" />
 
 <!-- PROFILE VIEWS COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=eikarna&abbreviated=true&label=Jumlah%20orang%20gabut&style=for-the-badge&color=A8F71D&labelColor=0f0c29" alt="Profile Counter" />
 
 <br/>
-
-<!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-eikarna-A8F71D?style=for-the-badge&logo=github&logoColor=black&labelColor=0f0c29)](https://github.com/eikarna)
-[![Email](https://img.shields.io/badge/ProtonMail-nixic0%40proton.me-A8F71D?style=for-the-badge&logo=protonmail&logoColor=black&labelColor=0f0c29)](mailto:nixic0@proton.me)
 
 </div>
 
@@ -46,7 +42,7 @@
 <tr>
 <td width="50%" valign="top">
 
-## 👤 Siapa Aku?
+## 👤 Whoami?
 
 ```go
 package main
@@ -102,13 +98,19 @@ func main() {
 
 <br/>
 
-> _**"Jadikan kekurangan di setiap bahasa pemrograman sebagai tantangan."**_
-
 </td>
 </tr>
 </table>
 
+<br/>
+
+> [!TIP]
+> _**"Jadikan kekurangan di setiap bahasa pemrograman sebagai tantangan."**_
+
+<br/>
+
 ---
+
 
 <!-- ═══════════════════════ TECH STACK ════════════════════════════ -->
 
@@ -123,23 +125,29 @@ func main() {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
 
 ### ⚡ Frameworks & Runtimes
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![ENet](https://img.shields.io/badge/ENet-Network-A8F71D?style=for-the-badge&logoColor=black)
+![ENet](https://img.shields.io/badge/ENet-Network-A8F71D?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🗄️ Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VS%20Codium-007ACC?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![9Router](https://img.shields.io/badge/9Router-FF5722?style=for-the-badge&logo=openrouter&logoColor=white)
 
 ### 🧠 AI & ML
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ggml](https://img.shields.io/badge/ggml-000000?style=for-the-badge&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-2196F3?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
 
@@ -205,7 +213,7 @@ func main() {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eikarna&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=eikarna&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
@@ -216,18 +224,8 @@ func main() {
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    SKILL PROFICIENCY                        │
-│                                                             │
-│  Adaptability        ████████████████████  100%  ⚡ MAX    │
-│  Multi-Language Dev  ████████████████░░░░   80%  🔥 HIGH   │
-│  Communication       ████████████████████  100%  💬 MAX    │
-│  Team Collaboration  ████████████████████  100%  🤝 MAX    │
-│  Problem Solving     ███████████████████░   95%  🧠 ELITE  │
-│  System Design       █████████████████░░░   85%  🏗️ HIGH   │
-└─────────────────────────────────────────────────────────────┘
-```
+<!-- START_GIT_ASCII_STATS -->
+<!-- END_GIT_ASCII_STATS -->
 
 </div>
 
