@@ -19,7 +19,7 @@
 <!-- TYPING ANIMATION - MAIN TAGLINE -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=A8F71D&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Hey+there!+I'm+Adnan+%F0%9F%91%8B;AI+%7C+ML+%7C+System+Programming;Building+things+in+Go+%F0%9F%9A%80;Growtopia+Private+Server+Pioneer;Always+learning%2C+always+building." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=A8F71D&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Hey+there!+I'm+Nix+%F0%9F%91%8B;AI+%7C+ML+%7C+System+Programming;Building+things+in+Go+%F0%9F%9A%80;Growtopia+Private+Server+Pioneer;Always+learning%2C+always+building." alt="Typing SVG" />
   </a>
 </div>
 
@@ -59,7 +59,7 @@ type Developer struct {
 
 func main() {
     me := Developer{
-        Name:     "Adnan",
+        Name:     "Nix",
         Alias:    "eikarna",
         Location: "Indonesia 🇮🇩",
         Focus: []string{
